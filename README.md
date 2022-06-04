@@ -16,7 +16,8 @@ scikit-image
 SimpleITK
 
 
-1. Please do not delete the existing folders, e.g., image, doc folder
-2. You can find the predicted results under the folder "./media/output/", including prostate segmentation, prostate lesion detection, and lesion malignancy results.
-3. For image input, only T2 is allowed, as ADC and hDWI need DICOM metadata for prostate region registration. Make sure your input image is a 3-channel image.
-4. For DICOM input, T2 is necessary, while ADC and hDWI are optional.
+1. You can start your testing via: "Main menu" → "Start testing".
+2. Please do not delete any of the existing folders/files, e.g., image, doc folder.
+3. You can find the predicted results under the folder "./media/output/", including prostate segmentation, prostate lesion detection, and lesion malignancy results.
+4. For image input, only T2 is allowed, as ADC and hDWI need DICOM metadata for prostate region registration. Make sure your input image is a 3-channel image.
+5. For DICOM input, T2 is necessary, while ADC and hDWI are optional.
