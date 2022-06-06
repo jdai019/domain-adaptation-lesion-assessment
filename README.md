@@ -21,3 +21,4 @@ SimpleITK
 3. You can find the predicted results under the folder "./media/output/", including prostate segmentation, prostate lesion detection, and lesion malignancy results.
 4. For image input, only T2 is allowed, as ADC and hDWI need DICOM metadata for prostate region registration. Make sure your input image is a 3-channel image.
 5. For DICOM input, T2 is necessary, while ADC and hDWI are optional.
+Sizexxx
